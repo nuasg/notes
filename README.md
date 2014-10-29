@@ -1,0 +1,4 @@
+Notes
+=====
+
+- Why Django?
